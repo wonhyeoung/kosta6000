@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/pletis/Desktop/kosta6000/.metadata/.plugins/org.eclipse.jdt.core
+2805811389.index

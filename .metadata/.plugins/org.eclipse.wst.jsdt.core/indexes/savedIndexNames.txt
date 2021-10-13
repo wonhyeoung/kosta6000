@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/pletis/Desktop/kosta6000/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2684129051.index
+2805811389.index
+2775221630.index
+2780061859.index
+1739594753.index
+1803640682.index
